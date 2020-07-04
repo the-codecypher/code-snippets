@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #2c2b33;
+}
+
+#followers {
+    color: #ff4754;
+    font-size: 14rem;
+    font-weight: 600;
+    user-select: none;
+}
